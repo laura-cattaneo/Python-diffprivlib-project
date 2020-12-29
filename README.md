@@ -3,3 +3,5 @@ While data offer tremendous business opportunity, they also confer great risk to
 
 This project was part of two classes (Programming for Data Science & Data Management, Databases, and DataWarehousing) I took in my first semester as a University of Minnesota Master in Business Analytics student. 
 I worked with [Harshitha Kuriminisetty](https://github.com/HarshithaKuriminisetty), [Casey Easterday](http://linkedin.com/in/caeasterday) and  [Jessica Lin](https://github.com/jessicalintw). We utilized the sample database `Adventureworks` to demonstrate two examples of the power of differential privacy.
+
+Check out our video explaining diffprivlib: https://www.youtube.com/watch?v=XvbyJYwlVLs 
