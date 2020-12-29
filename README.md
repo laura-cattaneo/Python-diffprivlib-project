@@ -1,4 +1,4 @@
-# Python-diffprivlib-project
+# Safeguard Customer Privacy Without Sacrificing Analytical Capability with Diffprivlib
 While data offer tremendous business opportunity, they also confer great risk to firms and their customers, the data points. Differential privacy, which strives to eliminate the risk of privacy breaches, is an evolving and critical asset that allows data scientists to uphold a wide range of analytical capabilities. The Python package, Diffprivlib, has the capability to preserve simple descriptive statistics and complicated machine learning algorithms but not risk the privacy act violation. Companies like Apple, Google, and Uber have adopted this technology, and the 2020 census data will also use differentially privatized data. New tools like Diffprivlib allow for simple and business friendly adoption.
 
 This project was part of two classes (Programming for Data Science & Data Management, Databases, and DataWarehousing) I took in my first semester as a University of Minnesota Master in Business Analytics student. 
